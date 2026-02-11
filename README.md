@@ -4,11 +4,11 @@ Uptime monitor and status page for Valyte Data services, powered by [Upptime](ht
 
 ## Monitored Services
 
-| Service | URL |
-|---------|-----|
-| NAVster App | https://console.valytedata.com |
-| Backend API | AWS API Gateway |
-| Supabase Auth | Auth endpoint |
+| Service         | URL                               |
+| --------------- | --------------------------------- |
+| NAVster App     | https://console.valytedata.com    |
+| Backend API     | AWS API Gateway                   |
+| Supabase Auth   | Auth endpoint                     |
 | Netlify Staging | https://main--navster.netlify.app |
 
 ## How It Works
