@@ -6,6 +6,11 @@ on:
   repository_dispatch:
     types: [setup]
   workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  actions: write
 jobs:
   release:
     name: Setup Upptime
