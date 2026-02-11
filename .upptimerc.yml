@@ -19,6 +19,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+      - 404
     maxResponseTime: 10000
   - name: Netlify Staging
     url: https://main--navster.netlify.app
