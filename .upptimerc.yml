@@ -1,0 +1,40 @@
+owner: quentinBawt
+repo: status
+user-agent: valyte-status
+
+sites:
+  - name: NAVster App
+    url: https://console.valytedata.com
+    icon: https://console.valytedata.com/favicon.ico
+    maxResponseTime: 10000
+  - name: Backend API
+    url: https://lch13jbgdh.execute-api.us-east-1.amazonaws.com/dev/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
+    maxResponseTime: 10000
+  - name: Supabase Auth
+    url: https://console.valytedata.com/api/auth/session
+    expectedStatusCodes:
+      - 200
+      - 401
+    maxResponseTime: 10000
+  - name: Netlify Staging
+    url: https://main--navster.netlify.app
+    maxResponseTime: 10000
+
+assignees:
+  - quentinBawt
+
+status-website:
+  baseUrl: /status
+  name: Valyte Data Status
+  introTitle: "**Valyte Data** System Status"
+  introMessage: "Real-time monitoring of Valyte Data services. Powered by [Upptime](https://github.com/upptime/upptime). Incidents are tracked as [GitHub Issues](https://github.com/quentinBawt/status/issues)."
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+  theme: light
