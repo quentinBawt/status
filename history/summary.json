@@ -60,7 +60,7 @@
     "url": "https://main--navster.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/main--navster.netlify.app.ico",
     "slug": "netlify-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 873,
     "timeMonth": 873,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   }
 ]
