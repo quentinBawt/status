@@ -60,19 +60,19 @@
     "url": "https://main--navster.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/main--navster.netlify.app.ico",
     "slug": "netlify-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 575,
-    "timeWeek": 873,
-    "timeMonth": 873,
-    "timeYear": 873,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 824,
+    "timeDay": 577,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2026-02-15": 0
+      "2026-02-15": 12
     }
   }
 ]
