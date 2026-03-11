@@ -4,9 +4,9 @@
     "url": "https://console.valytedata.com",
     "icon": "https://console.valytedata.com/favicon.ico",
     "slug": "na-vster-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1478,
     "timeMonth": 1002,
     "timeYear": 995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-11": 0
+    }
   },
   {
     "name": "Backend API",
