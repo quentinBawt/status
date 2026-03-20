@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.80%",
-    "time": 1089,
-    "timeDay": 3299,
-    "timeWeek": 1494,
-    "timeMonth": 1202,
-    "timeYear": 1089,
+    "time": 1078,
+    "timeDay": 656,
+    "timeWeek": 1507,
+    "timeMonth": 1204,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2026-03-11": 106
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 112,
-    "timeWeek": 140,
+    "time": 122,
+    "timeDay": 193,
+    "timeWeek": 147,
     "timeMonth": 124,
-    "timeYear": 120,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 286,
-    "timeDay": 170,
-    "timeWeek": 312,
-    "timeMonth": 329,
-    "timeYear": 286,
+    "time": 290,
+    "timeDay": 432,
+    "timeWeek": 346,
+    "timeMonth": 336,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2026-02-11": 5
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/main--navster.netlify.app.ico",
     "slug": "netlify-staging",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 788,
-    "timeDay": 576,
-    "timeWeek": 568,
-    "timeMonth": 811,
-    "timeYear": 788,
+    "uptimeYear": "99.84%",
+    "time": 785,
+    "timeDay": 661,
+    "timeWeek": 584,
+    "timeMonth": 777,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-02-26": 74,
       "2026-02-15": 12
